@@ -22,7 +22,7 @@
     "nodemon": "^2.0.2"
   },
   "dependencies": {
-    "@google-cloud/storage": "^4.7.0",
+    "@google-cloud/storage": "^7.18.0",
     "@sendgrid/mail": "^7.1.0",
     "avatar-builder": "^1.0.1",
     "bcryptjs": "^2.4.3",
